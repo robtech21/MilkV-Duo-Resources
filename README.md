@@ -31,6 +31,14 @@ A list of basic resources
 * [Forums](https://community.milkv.io/c/duo/5)
 * [Buildroot SDK](https://github.com/milkv-duo/duo-buildroot-sdk)
 
+## Other pages:
+
+A list of other sites/forum posts
+
+|Site|Description|Language|
+|-|-|-|
+|[Pavel Anni's Milk-V Duo Experiments Repo](https://github.com/pavelanni/milkv-duo-experiments/tree/main)|A Collection of experiments with the Milk-V Duo, most of what he's doing appears to be written in Go.|English|
+
 ## Accessories
 
 A list of known add-ons and accessories for the Duo
