@@ -7,7 +7,7 @@ _This guide is incomplete! Please feel free to leave a pull request to add more 
 
 I have recently purchased a [Milk-V Duo](https://milkv.io/duo) from China. Unfortunately due to the product's lack of official availability in other countries such as the US, most info and discussion about it is in mostly Chinese. I want to change this by providing English speakers with resources to easily work with the Duo.
 
-## Plans for the future
+## Plans for the future?
 
 * Add community made boards
 * Add English translated guides from the forums
@@ -20,7 +20,7 @@ I have recently purchased a [Milk-V Duo](https://milkv.io/duo) from China. Unfor
 
 ## How to Buy
 
-The Duo is not officially available in China as prevously mentioned. However, you can get them through third party sellers on AliExpress! You can buy a board for around $10-15 USD not including shipping. [Here is an example](https://www.aliexpress.us/item/3256805512900866.html). You can find more by searching for "Milk-V" on AliExpress.
+The Duo is not officially available in China as prevously mentioned. However, you can get them through third party sellers on AliExpress! Prices vary depending on what reseller you get them from, but they're usually like $10-15. Just look up "Milk-V" and you can find various listings for the board as well as resellers selling the IO board, which I would recommend getting.
 
 ## Basic Resources
 
@@ -37,7 +37,8 @@ A list of other sites/forum posts
 
 |Site|Description|Language|
 |-|-|-|
-|[Pavel Anni's Milk-V Duo Experiments Repo](https://github.com/pavelanni/milkv-duo-experiments/tree/main)|A Collection of experiments with the Milk-V Duo, most of what he's doing appears to be written in Go.|English|
+|[Pavel Anni's Milk-V Duo Experiments Repo](https://github.com/pavelanni/milkv-duo-experiments/tree/main)|A Collection of experiments with the Milk-V Duo, most of what he's doing is written in Go.|English|
+|[RISCV64 Emulation Repo](https://github.com/hongwenjun/riscv64)|What appears to be a repository that provides a way to emulate the Duo over QEMU.|Chinese|
 
 ## Accessories
 
