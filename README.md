@@ -39,6 +39,7 @@ A list of other sites/forum posts
 |-|-|-|
 |[Pavel Anni's Milk-V Duo Experiments Repo](https://github.com/pavelanni/milkv-duo-experiments/tree/main)|A Collection of experiments with the Milk-V Duo, most of what he's doing is written in Go.|English|
 |[RISCV64 Emulation Repo](https://github.com/hongwenjun/riscv64)|What appears to be a repository that provides a way to emulate the Duo over QEMU.|Chinese|
+|[Milk-V Duo Docker Compile](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile)|A Docker container with the Milk-V Duo toolchain for easy compilation.|English|
 
 ## Accessories
 
