@@ -38,13 +38,11 @@ A list of other sites/forum posts
 |Site|Description|Language|
 |-|-|-|
 |[Pavel Anni's Milk-V Duo Experiments Repo](https://github.com/pavelanni/milkv-duo-experiments/tree/main)|A Collection of experiments with the Milk-V Duo, most of what he's doing is written in Go.|English|
-|[RISCV64 Emulation Repo](https://github.com/hongwenjun/riscv64)|What appears to be a repository that provides a way to emulate the Duo over QEMU.|Chinese|
+|[RISCV64 Repo](https://github.com/hongwenjun/riscv64/tree/main/milkv-duo)|Various images for the Duo including Debian images. Base repo is in Chinese.|English|
 |[Milk-V Duo Docker Compile](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile)|A Docker container with the Milk-V Duo toolchain for easy compilation.|English|
 
 ## Accessories
 
 A list of known add-ons and accessories for the Duo
 
-* [RJ45 Expansion Board](https://www.aliexpress.us/item/3256805730788067.html)
-  * A solderable board that breaks out the ethernet headers to an RJ45 jack
-  * Current price: $2.90
+TODO: Add products like IO board and camera module
