@@ -41,6 +41,7 @@ A list of other sites/forum posts
 |[RISCV64 Repo](https://github.com/hongwenjun/riscv64/tree/main/milkv-duo)|Various images for the Duo including Debian images. Base repo is in Chinese.|English|
 |[Milk-V Duo Docker Compile](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile)|A Docker container with the Milk-V Duo toolchain for easy compilation.|English|
 |[Porting Debian to the Duo](https://www.taterli.com/9532/)|Notes on porting Debian to the Milk-V Duo|Chinese|
+|[Alpine POC 1](https://github.com/cwt/duo-buildroot-sdk/tree/poc1)|Alpine Linux proof-of-concept see [forum post](https://community.milkv.io/t/alpine-linux-on-the-duo/700)|English|
 
 ## Accessories
 
